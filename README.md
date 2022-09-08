@@ -4,6 +4,8 @@
 </p>
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=krsatyam7" alt="krsatyam7" /> </p>
+
 <br>
 
 
