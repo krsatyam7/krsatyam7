@@ -56,3 +56,8 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krsatyam7&layout=compact&theme=monokai" alt="7oskaaa" /></a> </p>
 
 -----
+# 🥇 My Hacktoberfest Badges
+
+<p align="center">
+	<img src="https://holopin.me/krsatyam7" alt="krsatyam7" height="200"/>
+</p>
