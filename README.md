@@ -1,10 +1,9 @@
-<h1 align="center">Hi , I'm Kumar Satyam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;DS%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
-</p>
-
+<h1 align="center">Hi , I'm Kumar Satyam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krsatyam7" alt="krsatyam7" /> </p>
+<p align="center">
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;DS%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+</p>
 
 <br>
 
@@ -12,6 +11,8 @@
 
 
 ## 🔥 Streak Stats
+
+
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=krsatyam7&theme=tokyonight" alt="krsatyam7" height="150px" /></p>
 
 <br>
@@ -19,14 +20,13 @@
 
 
 
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
+## 📬 Connect with me
+<p align="center"><img src="https://divedigital.id/wp-content/uploads/2022/07/42-Anya-Wears-Black-Glasses.jpg" alt="krsatyam7" height="150px" /></p>
 <p align="center">
-	<a href="mailto:kumarsatyam29ks@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/krsatyam7"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/krsatyam7/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://www.instagram.com/kr.satyam_/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
-	<a href="https://www.snapchat.com/add/krsatyam7"><img src="https://img.shields.io/badge/snapchat-%23FFFC00.svg?style=plastic&logo=snapchat&logoColor=black" alt="Snap Chat"/></a>
+<a href="https://twitter.com/krsatyam7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="krsatyam7" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/krsatyam7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krsatyam7" height="30" width="40" /></a>
+<a href="https://www.snapchat.com/add/krsatyam7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/snapchat.svg" alt="krsatyam7" height="30" width="40" /></a>
+<a href="https://instagram.com/kr.satyam_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kr.satyam_" height="30" width="40" /></a>
 </p>
 
 
