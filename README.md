@@ -21,10 +21,11 @@
 
 
 ## 📬 Connect with me
-<p align="center"><img src="https://divedigital.id/wp-content/uploads/2022/07/42-Anya-Wears-Black-Glasses.jpg" alt="krsatyam7" height="150px" /></p>
+<p align="center"><img src="https://divedigital.id/wp-content/uploads/2022/07/42-Anya-Wears-Black-Glasses.jpg" alt="krsatyam7" height="190px" /></p>
 <p align="center">
 <a href="https://twitter.com/krsatyam7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="krsatyam7" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/krsatyam7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krsatyam7" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/krsatyam7" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="kumarsatyam29ks@gmail.com" height="30" width="35" /></a>
+<a href="mailto:kumarsatyam29ks@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krsatyam7" height="30" width="40" /></a>
 <a href="https://www.snapchat.com/add/krsatyam7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/snapchat.svg" alt="krsatyam7" height="30" width="40" /></a>
 <a href="https://instagram.com/kr.satyam_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kr.satyam_" height="30" width="40" /></a>
 </p>
