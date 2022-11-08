@@ -60,5 +60,5 @@
 # 🥇 My Hacktoberfest Badges
 
 <p align="center">
-	<a href="https://holopin.io/@krsatyam7"><img src="https://holopin.me/krsatyam7" alt="krsatyam7" height="200"/></a>
+	<a href="https://holopin.io/@krsatyam7"><img src="https://holopin.me/krsatyam7" alt="krsatyam7" height="170"/></a>
 </p>
