@@ -44,7 +44,7 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Krsatyam7's Github Stats" src="https://github-readme-stats.vercel.app/api?username=krsatyam7&show_icons=true&count_private=true&&theme=tokyonight" height="150"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=krsatyam7&langs_count=10&show_icons=true&locale=en&layout=compact&&theme=tokyonight" alt="krsatyam7" height="150"/>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Krsatyam7's Github Stats" src="https://github-readme-stats.vercel.app/api?username=krsatyam7&show_icons=true&count_private=true&&theme=tokyonight" height="150"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=krsatyam7&langs_count=10&show_icons=true&locale=en&layout=compact&&theme=tokyonight" alt="krsatyam7" height="170"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
