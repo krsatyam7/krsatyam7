@@ -2,20 +2,29 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krsatyam7" alt="krsatyam7" /> </p>
 <p align="center">
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;DS%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Yatra+One&pause=1000&color=B29FF0FF&width=435&lines=Welcome+to+my+Github+profile.;I'm+CSE+2nd+year+student+from+NIET.;I'm+looking+forward+to+learn+new+things...." alt="Typing SVG" /></a>
 </p>
 
 <br>
 
+## 📊 Github Stats
 
 
 
-## 🔥 Streak Stats
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <div align="center">
+    <a href="https://github-readme-stats.vercel.app">
+        <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=krsatyam7&show_icons=true&count_private=true&&theme=tokyonight&hide_border=truetheme=transparent)"/>
+    </a>
+    <a href="https://github-readme-streak-stats.herokuapp.com">
+        <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=krsatyam7&theme=tokyonight&hide_border=true"/>
+    </a>
+</div>
+  &nbsp;
+  &nbsp;
 
-&nbsp;
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=krsatyam7&theme=tokyonight" alt="krsatyam7" height="150" /></p>
 
-<br>
 
 
 
@@ -35,27 +44,9 @@
 
 
 
-
-
-## 📊 Github Stats
-
-
-
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Krsatyam7's Github Stats" src="https://github-readme-stats.vercel.app/api?username=krsatyam7&show_icons=true&count_private=true&&theme=tokyonight" height="175"/></a>
-	<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=krsatyam7&langs_count=10&show_icons=true&locale=en&layout=compact&&theme=tokyonight" alt="krsatyam7" height="150"/>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-  &nbsp;
-  &nbsp;
-
-
 ## :trophy: Git profile Trophies
 
 &nbsp;
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krsatyam7&layout=compact&theme=monokai" height="150" alt="7oskaaa" /></a> </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krsatyam7&theme=monokai" height="150" alt="krsatyam7" /></a> </p>
 &nbsp;
