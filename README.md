@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krsatyam7" alt="krsatyam7" /> </p>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Yatra+One&pause=1000&color=B29FF0FF&width=435&lines=Welcome+to+my+Github+profile.;I'm+CSE+2nd+year+student+from+NIET.;I'm+looking+forward+to+learn+new+things...." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Yatra+One&pause=1000&color=B29FF0FF&width=435&lines=Welcome+to+my+Github+profile.;I'm+2nd+year+CSE+student+from+NIET.;I'm+looking+forward+to+learn+new+things...." alt="Typing SVG" /></a>
 </p>
 
 <br>
