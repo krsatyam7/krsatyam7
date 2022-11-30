@@ -43,10 +43,24 @@
 
 
 
-
+<details>
+  
+  <summary>Other Info... </summary>
+  
 ## :trophy: Git profile Trophies
 
 &nbsp;
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krsatyam7&theme=monokai" height="150" alt="krsatyam7" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krsatyam7&theme=darkhub" height="150" alt="krsatyam7" /></a> </p>
 &nbsp;
+  
+## Hacktoberfest Badges
+
+&nbsp;
+
+<p align="center"> <a href="https://holopin.io/@krsatyam7"><img src="https://holopin.me/krsatyam7" width="80%" alt="Hacktoberfest Badges" /></a> </p>
+&nbsp;  
+  
+</details>
+
+
