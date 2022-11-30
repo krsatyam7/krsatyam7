@@ -15,7 +15,7 @@
   <br/>
   <div align="center">
     <a href="https://github-readme-stats.vercel.app">
-        <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=krsatyam7&show_icons=true&count_private=true&&theme=tokyonight&hide_border=truetheme=transparent)"/>
+        <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=krsatyam7&show_icons=true&theme=tokyonight&hide_border=true"/>
     </a>
     <a href="https://github-readme-streak-stats.herokuapp.com">
         <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=krsatyam7&theme=tokyonight&hide_border=true"/>
