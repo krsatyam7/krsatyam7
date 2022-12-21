@@ -30,7 +30,7 @@
 
 ## 📬 Connect with me
 &nbsp;
-<p align="center"><img src="https://divedigital.id/wp-content/uploads/2022/07/42-Anya-Wears-Black-Glasses.jpg" alt="krsatyam7" height="190px" /></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/110342305/208852378-e338eb1e-581b-433c-8317-9d560009c33b.svg" alt="krsatyam7" height="230px" /></p>
 <p align="center">
 <a href="https://twitter.com/krsatyam7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="krsatyam7" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/krsatyam7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krsatyam7" height="30" width="35" /></a>&nbsp;
