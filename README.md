@@ -16,6 +16,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-krsatyam7-blue.svg?style=flat&logo=Twitter&logoColor=blue&logoColor=blue&link=https://twitter.com/krsatyam7)](https://twitter.com/krsatyam7)&nbsp; 
 [![Gmail Badge](https://img.shields.io/badge/-krsatyam7@outlook.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:krsatyam7@outlook.com)](mailto:krsatyam7@outlook.com)
 
+<br>
 
 ## <img height="45" src="https://media.tenor.com/tKYbGz3wNCAAAAAi/catscafe-penguin.gif"/> Github Stats
 <div align="center">
@@ -29,9 +30,7 @@
 
 <details closed>
 
-<p align="center">
-
-![Metrics](https://metrics.lecoq.io/krsatyam7?template=terminal&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FCalcutta)
+<p align="center"> <img src = "https://metrics.lecoq.io/krsatyam7?template=terminal&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FCalcutta" />
 </p>  
 
 </details>
