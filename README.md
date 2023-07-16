@@ -1,19 +1,24 @@
-<h1 align="center">Hi , I'm Kumar Satyam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krsatyam7" alt="krsatyam7" /> </p>
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Yatra+One&pause=1000&color=B29FF0FF&width=435&lines=Welcome+to+my+Github+profile.;I'm+2nd+year+CSE+student+from+NIET.;I'm+looking+forward+to+learn+new+things...." alt="Typing SVG" /></a>
-</p>
-
-<br>
-
-## 📊 Github Stats
+<p align = "center><a href=""><img alt="Hello! I'm Satyam" src="https://github.com/krsatyam7/krsatyam7/assets/110342305/d6d340a9-7f9b-413e-aecf-fdcb93bf1ae3" /></a></p>
 
 
 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <div align="center">
+## <img height="45" src="https://media.tenor.com/rPcqJExSaOcAAAAi/menhera-chibi.gif"/> About me
+
+- 🎓 3<sup>rd</sup> Year CSE student @ NIET.
+- 🧑🏻‍💻 Codes in Python & Java.
+- ❤️ Loves devloping solution for real-world problems.
+  
+
+## <img height="50" src="https://media.tenor.com/uxO8UkvrXz4AAAAi/animation-cat.gif"/> Get in Touch  
+[![Linkedin Badge](https://img.shields.io/badge/-krsatyam7-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/krsatyam7/)](https://www.linkedin.com/in/krsatyam7/)&nbsp; 
+[![Github Badge](https://img.shields.io/badge/-krsatyam7-%23121011.svg?style=flat&logo=github&logoColor=white&link=https://github.com/krsatyam7/)](https://github.com/krsatyam7/)&nbsp; 
+[![Twitter Badge](https://img.shields.io/badge/-krsatyam7-blue.svg?style=flat&logo=Twitter&logoColor=blue&logoColor=blue&link=https://twitter.com/krsatyam7)](https://twitter.com/krsatyam7)&nbsp; 
+[![Gmail Badge](https://img.shields.io/badge/-krsatyam7@outlook.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:krsatyam7@outlook.com)](mailto:krsatyam7@outlook.com)
+
+
+## <img height="45" src="https://media.tenor.com/tKYbGz3wNCAAAAAi/catscafe-penguin.gif"/> Github Stats
+<div align="center">
     <a href="https://github-readme-stats.vercel.app">
         <img width="49%" alt="Stats" src="https://my-stats-lemon.vercel.app/api?username=krsatyam7&show_icons=true&theme=tokyonight&hide_border=true"/>
     </a>
@@ -21,45 +26,20 @@
         <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=krsatyam7&theme=tokyonight&hide_border=true"/>
     </a>
 </div>
-  &nbsp;
-  &nbsp;
 
+<details closed>
 
-
-
-## 📬 Connect with me
-&nbsp;
-<p align="center"><a href="https://linktr.ee/krsatyam7" target="blank"><img src="https://user-images.githubusercontent.com/110342305/212350152-7972d25c-b6a7-4ebd-a3f5-20bfedc052a5.png" alt="krsatyam7" height="230px" /></p>
 <p align="center">
-<a href="https://twitter.com/krsatyam7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="krsatyam7" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/krsatyam7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krsatyam7" height="30" width="35" /></a>&nbsp;
-<a href="mailto:kumarsatyam29ks@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="kumarsatyam29ks@gmail.com" height="30" width="37" /></a>&nbsp;
-<a href="https://www.snapchat.com/add/krsatyam7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/snapchat.svg" alt="krsatyam7" height="30" width="40" /></a>
-<a href="https://instagram.com/kr.satyam_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kr.satyam_" height="30" width="40" /></a>
-</p>
-&nbsp;
-&nbsp;
 
+![Metrics](https://metrics.lecoq.io/krsatyam7?template=terminal&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FCalcutta)
+</p>  
 
-
-<details>
-  
-  <summary>Other Info... </summary>
-  
-## :trophy: Git profile Trophies
-
-&nbsp;
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krsatyam7&theme=darkhub" height="150" alt="krsatyam7" /></a> </p>
-&nbsp;
-  
-## Hacktoberfest Badges
-
-&nbsp;
-
-<p align="center"> <a href="https://holopin.io/@krsatyam7"><img src="https://holopin.me/krsatyam7" width="80%" alt="Hacktoberfest Badges" /></a> </p>
-&nbsp;  
-  
 </details>
 
+<br>
 
+
+<p align="center">
+<img height="150" src="https://media.tenor.com/vlatqJBjMi0AAAAj/among-us.gif"/></p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=krsatyam7" alt="krsatyam7" /> </p>
