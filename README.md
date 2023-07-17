@@ -14,7 +14,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-krsatyam7-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/krsatyam7/)](https://www.linkedin.com/in/krsatyam7/)&nbsp; 
 [![Github Badge](https://img.shields.io/badge/-krsatyam7-%23121011.svg?style=flat&logo=github&logoColor=white&link=https://github.com/krsatyam7/)](https://github.com/krsatyam7/)&nbsp; 
 [![Twitter Badge](https://img.shields.io/badge/-krsatyam7-blue.svg?style=flat&logo=Twitter&logoColor=blue&logoColor=blue&link=https://twitter.com/krsatyam7)](https://twitter.com/krsatyam7)&nbsp; 
-[![Gmail Badge](https://img.shields.io/badge/-krsatyam7@outlook.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:krsatyam7@outlook.com)](mailto:krsatyam7@outlook.com)
+[![Outlook Badge](https://img.shields.io/badge/krsatyam7@outlook.com-0078D4?style=flat&logo=microsoft-outlook&logoColor=white&link=mailto:krsatyam7@outlook.com)](mailto:krsatyam7@outlook.com)
 
 <br>
 
