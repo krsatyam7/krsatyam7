@@ -10,11 +10,15 @@
 - ❤️ Loves devloping solution for real-world problems.
   
 
-## <img height="50" src="https://media.tenor.com/uxO8UkvrXz4AAAAi/animation-cat.gif"/> Get in Touch  
-[![Linkedin Badge](https://img.shields.io/badge/-krsatyam7-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/krsatyam7/)](https://www.linkedin.com/in/krsatyam7/)&nbsp; 
-[![Github Badge](https://img.shields.io/badge/-krsatyam7-%23121011.svg?style=flat&logo=github&logoColor=white&link=https://github.com/krsatyam7/)](https://github.com/krsatyam7/)&nbsp; 
-[![Twitter Badge](https://img.shields.io/badge/-krsatyam7-blue.svg?style=flat&logo=Twitter&logoColor=blue&logoColor=blue&link=https://twitter.com/krsatyam7)](https://twitter.com/krsatyam7)&nbsp; 
-[![Outlook Badge](https://img.shields.io/badge/krsatyam7@outlook.com-0078D4?style=flat&logo=microsoft-outlook&logoColor=white&link=mailto:krsatyam7@outlook.com)](mailto:krsatyam7@outlook.com)
+## <img height="50" src="https://media.tenor.com/uxO8UkvrXz4AAAAi/animation-cat.gif"/> Get in Touch
+
+<p align="center"> 
+<a href = "https://www.linkedin.com/in/krsatyam7"> <img src = "https://img.shields.io/badge/-krsatyam7-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/krsatyam7" /> &nbsp; &nbsp; 
+<a href = "https://github.com/krsatyam7"> <img src = "https://img.shields.io/badge/-krsatyam7-%23121011.svg?style=flat&logo=github&logoColor=white&link=https://github.com/krsatyam7/" /> &nbsp; &nbsp; 
+<a href = "https://twitter.com/krsatyam7"> <img src = "https://img.shields.io/badge/-krsatyam7-blue.svg?style=flat&logo=Twitter&logoColor=blue&logoColor=blue&link=https://twitter.com/krsatyam7" /> &nbsp; &nbsp; 
+<a href = "mailto:krsatyam7@outlook.com"> <img src = "https://img.shields.io/badge/krsatyam7@outlook.com-0078D4?style=flat&logo=microsoft-outlook&logoColor=white&link=mailto:krsatyam7@outlook.com" /> &nbsp; &nbsp; 
+
+</p>
 
 <br>
 
