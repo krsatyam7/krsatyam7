@@ -5,7 +5,7 @@
 
 ## <img height="45" src="https://media.tenor.com/rPcqJExSaOcAAAAi/menhera-chibi.gif"/> About me
 
-- 🎓 3<sup>rd</sup> Year CSE student @ NIET.
+- 🎓 4<sup>th</sup> Year CSE student @ NIET.
 - 🧑🏻‍💻 Codes in Python & Java.
 - ❤️ Loves devloping solution for real-world problems.
   
